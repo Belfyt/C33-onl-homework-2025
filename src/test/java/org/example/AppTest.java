@@ -10,6 +10,9 @@ import junit.framework.TestSuite;
 public class AppTest 
     extends TestCase
 {
+    public void helloWorld(){
+        assertEquals("Hello World!", App.getMassage());
+    }
     /**
      * Create the test case
      *
