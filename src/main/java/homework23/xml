@@ -1,0 +1,10 @@
+<books>
+    <book>
+        <title>Book Title 1</title>
+        <author>Author Vlad</author>
+    </book>
+    <book>
+        <title>Book Title 2</title>
+        <author>Author Stas</author>
+    </book>
+</books>
